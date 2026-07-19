@@ -2,6 +2,7 @@
 
 An AI-powered web application designed for analyzing medical images (X-rays, CT scans, MRI) to detect diseases such as pneumonia, tumors, fractures, and other abnormalities. Built with a focus on clinical workflows, this application provides healthcare professionals with an end-to-end platform for secure image upload, AI-assisted diagnosis, and legal reporting.
 
+**Live Demo**: [https://x-ray-detect-ai.vercel.app/](https://x-ray-detect-ai.vercel.app/)
 ## Key Technical Highlights
 
 - **Multi-Modal AI Integration**: Integrated Google Gemini 2.5 Flash and Groq Llama 4 Vision models to process complex medical imagery and return structured JSON bounding boxes and diagnostic confidence scores.
